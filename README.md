@@ -5,3 +5,8 @@
 - React
 - Docz
 - Styled Components
+
+## Run
+
+~> yarn docz:dev
+
